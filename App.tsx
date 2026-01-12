@@ -10,10 +10,10 @@ import { Memory } from './types';
 
 // Data - Updated for Valorant Theme
 const memories: Memory[] = [
-  { id: 1, imageUrl: "images/WhatsApp%20Image%202026-01-09%20at%2022.49.06.jpeg", caption: "Beraber saklambaçlar oynadık..." },
-  { id: 2, imageUrl: "images/WhatsApp%20Image%202026-01-09%20at%2022.49.07%20(2).jpeg", caption: "Kimsenin bilmediği yerlerde..." },
-  { id: 3, imageUrl: "images/WhatsApp%20Image%202026-01-09%20at%2022.49.09%20(2).jpeg", caption: "Yayınlarımı izledin... Çok kötü oynamama rağmen..." },
-  { id: 4, imageUrl: "images/WhatsApp%20Image%202026-01-09%20at%2022.49.10.jpeg", caption: "Mermiler kafama değil, kalbime geldi 💘" },
+  { id: 1, imageUrl: "https://raw.githubusercontent.com/buraksocial/isiltim/refs/heads/main/images/WhatsApp%20Image%202026-01-09%20at%2022.49.06.jpeg", caption: "Beraber saklambaçlar oynadık..." },
+  { id: 2, imageUrl: "https://raw.githubusercontent.com/buraksocial/isiltim/refs/heads/main/images/WhatsApp%20Image%202026-01-09%20at%2022.49.07%20(2).jpeg", caption: "Kimsenin bilmediği yerlerde..." },
+  { id: 3, imageUrl: "https://raw.githubusercontent.com/buraksocial/isiltim/refs/heads/main/images/WhatsApp%20Image%202026-01-09%20at%2022.49.09%20(2).jpeg", caption: "Yayınlarımı izledin... Çok kötü oynamama rağmen..." },
+  { id: 4, imageUrl: "https://raw.githubusercontent.com/buraksocial/isiltim/refs/heads/main/images/WhatsApp%20Image%202026-01-09%20at%2022.49.10.jpeg", caption: "Mermiler kafama değil, kalbime geldi 💘" },
 ];
 
 const reasons = [
